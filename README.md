@@ -11,4 +11,4 @@ Correspondence: ckk@princeton.edu
 
 Associated Data: https://doi.org/10.6084/m9.figshare.30747140
 
-Required software: -Prism viewer -Fiji/ImageJ -MATLAB -iPythonNotebook
+Required software: -Fiji/ImageJ -MATLAB -iPythonNotebook
