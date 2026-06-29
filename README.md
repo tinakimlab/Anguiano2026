@@ -1,4 +1,4 @@
-# Anguiano2025
+# Anguiano2026
 
 Scripts used to analyze and plot data in the following paper:
 
@@ -11,4 +11,4 @@ Correspondence: ckk@princeton.edu
 
 Associated Data: https://doi.org/10.6084/m9.figshare.30747140
 
-Required software: -Prism viewer -Fiji/ImageJ -MATLAB
+Required software: -Prism viewer -Fiji/ImageJ -MATLAB -iPythonNotebook
